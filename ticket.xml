@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <document>
+    <aling mode="center">
+        <text-line>Hello World!</text-line>
+        <text-line>07-08-2021</text-line>
+    </aling>
+    <line-feed />
+    <text-line>{{tableData}}</text-line>
+    <paper-cut/>
+  </document>
